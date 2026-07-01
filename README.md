@@ -71,4 +71,4 @@ To build a modern smart home automation platform with real-time controls, cloud-
 
 ## 👨‍💻 Author
 
-Naveen Kandula
+KARTHIK JAMMULA
